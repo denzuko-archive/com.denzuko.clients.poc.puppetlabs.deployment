@@ -1,6 +1,6 @@
 task :default => "docker:start"
 
-namepace :docker do
+namespace :docker do
 	desc "Builds container"
 	task :build do
 		exec "docker build -t 'puppetlabs/exercise-website' ."
