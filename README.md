@@ -4,6 +4,8 @@ Basic deployment of puppet and nginx over docker container.
 
 View the results: http://cadc001.dapla.net:8080/
 
+[![Build Status](https://travis-ci.org/denzuko/puppetlabs-deployment.svg)](https://travis-ci.org/denzuko/puppetlabs-deployment)
+
 
 == Installation ==
 
